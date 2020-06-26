@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+nav.nav-bg-color {
+    background-color: #ffccff;
+    border-radius: 0px;
+}
+div.navbar-header .navbar-brand {
+    color: #660066;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div.navbar-header .navbar-brand:hover {
+    color: #330033;
+}
+ul.navbar-nav hr {
+    width : 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul.nav li:nth-child(1) {
+    margin-top: 22px;
+}
+ul.nav li:nth-child(5) {
+    margin-bottom: 20px;
+}
+div#dropdown-bg-color {
+    background-color: #00ff80;
+}
+body {
+    background-color: #660066;
+}
+h1#heading {
+    color: #ffccff;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.row {
+    margin-left: auto;
+    margin-right: auto;
+}
+p#content {
+    color: #660066;
+    background-color: #ffccff;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
